@@ -1,0 +1,24 @@
+{
+  "name": "algorithm-visualizer",
+  "version": "1.0.0",
+  "description": "A visualizer for various algorithms using Next.js and React.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "keywords": ["algorithm", "visualizer", "nextjs", "react"],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "next": "^13.0.0",
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.0.0",
+    "eslint-config-next": "^13.0.0"
+  }
+}
